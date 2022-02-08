@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yarukon
+- A Developer
+- Java, C#, and Lua
+- Hav mental issue like depression
+- Not MtF
