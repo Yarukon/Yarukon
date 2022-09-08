@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Yarukon
-- A Developer
+- A developer who will write some shit codes
+- Final Fantasy Player (Lalafell yes)
 - Java, C#, and Lua
 - Hav mental issue like depression
 - Not MtF
