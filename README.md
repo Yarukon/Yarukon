@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yarukon
 - A developer who will write some shit codes
-- Final Fantasy XIV Player (Lalafell yes)
+- Mainly playing Final Fantasy XIV (Lalafell yes)
 - Java, C#, and Lua
 - Crippling depression
 - Not MtF
