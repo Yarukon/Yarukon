@@ -2,5 +2,5 @@
 - A developer who will write some shit codes
 - Final Fantasy XIV Player (Lalafell yes)
 - Java, C#, and Lua
-- Hav mental issue like depression
+- Crippling depression
 - Not MtF
