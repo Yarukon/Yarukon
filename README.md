@@ -2,5 +2,5 @@
 - A developer who will write some shit codes
 - Mainly playing Final Fantasy XIV Online (Lalafell yes)
 - Java, C#, and Lua
-- Crippling depression
+- Clinical depression
 - Not MtF
