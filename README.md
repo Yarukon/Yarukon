@@ -1,3 +1,4 @@
 - Hi, I'm Yaurkon
 - Java C# and Lua
+- Now learning C++
 - Clinical depression
