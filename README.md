@@ -1,5 +1,5 @@
 - Hi, I'm Yaurkon
-- A Self taught programmer
+- A self-taught programmer
 - Java C# and Lua
 - Learning C++
 - Clinical depression
