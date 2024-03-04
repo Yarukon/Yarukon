@@ -1,5 +1,6 @@
 - Hi, I'm Yaurkon
 - A self-taught programmer
-- Java C# and Lua
+- Java, C# and Lua
+- Web developer (Vue.js and Spring)
 - Learning C++
-- Clinical depression
+- Clinical depression, OCD, Anxiety
