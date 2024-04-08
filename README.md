@@ -1,6 +1,5 @@
 - Hi, I'm Yaurkon
-- A self-taught programmer
+- I know how to turn on and off the PC
 - Java, C# and Lua
 - Web developer (Vue.js and Spring)
 - Learning C++
-- Clinical depression, OCD, Anxiety
