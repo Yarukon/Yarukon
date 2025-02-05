@@ -1,5 +1,4 @@
 - Hi, I'm Yaurkon
-- Expert of turning computer on and off
 - Java, C# and Lua
 - Web developer (Vue.js and Spring)
 - Learning C++ and PHP
