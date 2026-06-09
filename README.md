@@ -1,4 +1,3 @@
 - Hi, I'm Yaurkon
-- Java, .NET and Lua
-- Web developer (Vue.js and Spring)
-- Learning C++
+- Java, C++, .NET and Lua
+- Web developer (Vue.js and PHP)
